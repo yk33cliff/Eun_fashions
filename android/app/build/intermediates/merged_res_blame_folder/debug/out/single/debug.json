@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/drawable-hdpi_splashed.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/drawable-hdpi/splashed.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/drawable-xxxhdpi_splashed.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/drawable-xxxhdpi/splashed.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/drawable-xxhdpi_splashed.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/drawable-xxhdpi/splashed.png"
+    },
+    {
+        "merged": "com.Eun_fashion.app-merged_res-36:/layout_launch_screen.xml.flat",
+        "source": "com.Eun_fashion.app-main-38:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/layout_launch_screen.xml.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/drawable-xhdpi_splashed.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/drawable-xhdpi/splashed.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/drawable-mdpi_splashed.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/drawable-mdpi/splashed.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/araknerd/.gradle/daemon/8.3/com.Eun_fashion.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
